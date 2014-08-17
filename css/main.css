@@ -1,0 +1,15 @@
+.menu-item {
+  .pull-right;  
+
+  height: 100px;
+  width: 100px;
+}
+
+body {
+  background: #f9fafb;
+  font-size: 1.8em;
+}
+
+.jumbotron {
+    background: url("../img/bg_food.png") repeat;
+}
