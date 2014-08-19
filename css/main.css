@@ -12,4 +12,5 @@ body {
 
 .jumbotron {
     background: url("../img/bg_food.png") repeat;
+    padding-bottom: 75px;
 }
